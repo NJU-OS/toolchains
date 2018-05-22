@@ -1,2 +1,2 @@
 # toolchains
-用来编译vtos，vots目录下的Makefile文件会自动下载toolchains
+用来编译vtos，vtos目录下的Makefile文件会自动下载toolchains
